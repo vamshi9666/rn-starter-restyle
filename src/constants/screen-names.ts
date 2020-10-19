@@ -1,0 +1,3 @@
+export const HOME_SCREEN = 'HOME_SCREEN';
+
+export const PROFILE_SCREEN = 'PROFILE_SCREEN';
